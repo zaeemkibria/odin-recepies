@@ -1,0 +1,17 @@
+main-heading{
+    background-color: white;
+    color: black;
+    font-size: 36;
+
+}
+
+second-heading{
+    background-color: aqua;
+    color: black;
+    font-size: 24;
+}
+
+list{
+    color: red;
+    background-color: black;
+}
